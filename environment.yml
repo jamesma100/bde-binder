@@ -6,4 +6,7 @@ dependencies:
   - rdkit
   - ipykernel
   - nb_conda
+  - pip:
+    - alfabet
+
 prefix: /opt/anaconda3/envs/alfabet
